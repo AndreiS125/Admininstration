@@ -1,0 +1,26 @@
+name: Admininstration
+version: '${project.version}'
+main: org.andreis.mc.Admininstration
+api-version: 1.18
+authors: [ AndreiS ]
+description: Property of Andrei Saramukov.
+commands:
+  become: {}
+  invsee: {}
+  sayfor: {}
+  seeall: {}
+  s: {}
+  sc: {}
+  tempmute: {}
+  tempban: {}
+  mute: {}
+  unmute: {}
+  god: {}
+  gm: {}
+  vanish: {}
+  disvanish: {}
+  strike: {}
+  zeus: {}
+  bomber: {}
+  check: {}
+
